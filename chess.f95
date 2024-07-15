@@ -48,7 +48,7 @@ print*
 read*, is_continue
 if (is_continue /= "c") goto 120
 
-open(11,file="/home/berkeoncel/board.dat")
+open(11,file="board.dat")
 print*
 print*, "Chess Board"
 print*
