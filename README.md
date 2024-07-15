@@ -28,8 +28,8 @@ Execute the compiled program
 ```
 ./chess
 ```
-![Screenshot from 2024-07-16 00-29-16.png](..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-07-16%2000-29-16.png)
+![Screenshot from 2024-07-16 00-29-16](https://github.com/user-attachments/assets/06d3881d-52c2-4b26-9040-755cbdca25c4)
 
-![Screenshot from 2024-07-16 00-30-42.png](..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-07-16%2000-30-42.png)
+![Screenshot from 2024-07-16 00-30-42](https://github.com/user-attachments/assets/7d79e600-b2d6-40fe-8c81-1047aa6df8a2)
 
-![Screenshot from 2024-07-16 00-31-40.png](..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-07-16%2000-31-40.png)
+![Screenshot from 2024-07-16 00-31-40](https://github.com/user-attachments/assets/bd8ba305-6908-497c-8825-d5bc19c325bd)
