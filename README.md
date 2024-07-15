@@ -30,6 +30,6 @@ Execute the compiled program
 ```
 ![Screenshot from 2024-07-16 00-29-16](https://github.com/user-attachments/assets/06d3881d-52c2-4b26-9040-755cbdca25c4)
 
-![Screenshot from 2024-07-16 00-30-42](https://github.com/user-attachments/assets/7d79e600-b2d6-40fe-8c81-1047aa6df8a2)
+![Screenshot from 2024-07-16 00-35-15](https://github.com/user-attachments/assets/c4559e92-7773-46ca-815e-4bfbc5cacfea)
 
-![Screenshot from 2024-07-16 00-31-40](https://github.com/user-attachments/assets/bd8ba305-6908-497c-8825-d5bc19c325bd)
+![Screenshot from 2024-07-16 00-35-27](https://github.com/user-attachments/assets/066a7414-137c-410c-a9e0-770a961cd09f)
