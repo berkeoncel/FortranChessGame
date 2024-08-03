@@ -68,7 +68,7 @@ checkmate_status = .false.
 
 do i=1,50
 
-if (checkmate_status .eqv. .true.) exit
+if (checkmate_status) exit
 
 icount=mod(i,2)
 
